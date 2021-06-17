@@ -1,0 +1,37 @@
+{
+  "student": 
+  [
+    {
+    "name": "Akshay",
+    "city": "Jaipur"
+    },
+    {
+     "name": "Vijay",
+     "city": "Jabalpur"
+    },
+    {
+     "name": "Neha",
+     "city": "Kanpur"
+    },
+    {
+     "name": "Arjun",
+     "city": "Jabalpur"
+    },
+    {
+     "name": "Akshay B",
+     "city": "Jabalpur"
+    },
+    {
+     "name": "Rakesh",
+     "city": "Kanpur"
+    },
+    {
+     "name": "Anjali",
+     "city": "Jabalpur"
+    },
+    {
+     "name": "Rahul",
+     "city": "Bangalore"
+    }
+  ]
+}
